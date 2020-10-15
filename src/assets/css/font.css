@@ -1,0 +1,13 @@
+@font-face{
+    font-family: Metropolis;
+    src: url("../fonts/Metropolis-Regular.woff") format("woof"),
+    url("../fonts/Metropolis-Regular.woff2") format("woff2"),
+    url("../fonts/Metropolis-SemiBold.woff") format("woff"),
+    url("../fonts/Metropolis-SemiBold.woff2") format("woff2"),
+    url("../fonts/Metropolis-Bold.woff") format("woff"),
+    url("../fonts/Metropolis-Bold.woff2") format("woff2");
+}
+
+body {
+    font-family: "Metropolis";
+}
